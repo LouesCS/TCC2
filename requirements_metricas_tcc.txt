@@ -1,0 +1,7 @@
+openpyxl
+numpy
+nltk
+rouge-score
+bert-score
+sentence-transformers
+torch
